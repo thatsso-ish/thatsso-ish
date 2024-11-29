@@ -1,5 +1,5 @@
 Hi, I’m Ismael Ngobeni
-- 👀 I’m interested in Data Analytics, Software Development, Business Intelligence, and Data Science.
+- 👀 I’m interested in Data Analytics, Software Development, Business Intelligence, Data Engineering and Data Science.
 - 🌱 I’m currently learning advanced data analytics techniques, Python, SQL, and Tableau.
 - 💞️ I’m looking to collaborate on innovative projects that involve data analysis, predictive modeling, and data visualization.
 - 📫 How to reach me: 
