@@ -3,7 +3,7 @@ Hi, I’m Ismael Ngobeni
 - 🌱 I’m currently learning advanced data analytics techniques, Python, SQL, and Tableau.
 - 💞️ I’m looking to collaborate on innovative projects that involve data analysis, predictive modeling, and data visualization.
 - 📫 How to reach me: 
-  - Email: ismaelkatlego0@gmail.com
+  - Email: itngobeniii@gmail.com
   - LinkedIn: [Ismael Ngobeni](https://www.linkedin.com/in/ismael-ngobeni-636a2a251)
   - GitHub: [thatsso-ish](https://github.com/thatsso-ish)
 - 😄 Pronouns: He/Him
