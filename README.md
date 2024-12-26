@@ -4,7 +4,7 @@ Hi, I’m Ismael Ngobeni
 - 💞️ I’m looking to collaborate on innovative projects that involve data analysis, predictive modeling, and data visualization.
 - 📫 How to reach me: 
   - Email: itngobeniii@gmail.com
-  - LinkedIn: [Ismael Ngobeni](https://www.linkedin.com/in/ismael-ngobeni-636a2a251)
+  - LinkedIn: [Ismael Ngobeni](https://www.linkedin.com/in/ismael-n-636a2a251/)
   - GitHub: [thatsso-ish](https://github.com/thatsso-ish)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've participated in several hackathons where I had the chance to demonstrate my programming, critical thinking, and teamwork abilities.
